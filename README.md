@@ -95,6 +95,11 @@ The addon can display your results in different formats. The formats available a
 
   ![image](https://github.com/user-attachments/assets/9d9c74ab-afde-41f9-ba94-eaf8904b580b)
 
+- minimalistic-gdrive:
+  Uses the format from this [Stremio GDrive](https://github.com/Viren070/stremio-gdrive-addon) addon but slightly modifed
+  
+  ![Screenshot From 2025-01-20 14-24-10](https://github.com/user-attachments/assets/8d10b26f-f399-4b99-9db6-1932787d812e)
+
 - torrentio:
   Uses the format from the Torrentio addon.
 
@@ -104,6 +109,7 @@ The addon can display your results in different formats. The formats available a
   Uses the format from the Torbox stremio addon.
 
   ![image](https://github.com/user-attachments/assets/21f90ee2-e81d-4a56-9e64-8937fb7ab2bc)
+  
 
 ### What is Stremio or How do I use this addon?
 
